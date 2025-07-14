@@ -79,6 +79,7 @@ namespace Demo_02
             //long number01 = 12423654646545;
 
             //int number02 = number01;// Error بسبب انه مش هيقدر يحول تلقائي لازم استخدم Explicit
+
             //int number02 = (int)number01;// incorrect value 
 
             //solve Problem 
@@ -165,6 +166,7 @@ namespace Demo_02
             #endregion
 
             #region Try Parse 
+
             //Method is a [safe] alternative to Parse.
             //Convert a string to a specified type and returns a [boolean] indicating success or failure. 
             //It does not throw exceptions.
